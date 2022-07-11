@@ -1,13 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&family=Ubuntu:ital,wght@1,300&display=swap');
+
+html {
+    font-family: 'Righteous', cursive;
+    font-family: 'Ubuntu', sans-serif;
+}
+
 .backgroundColorRed {
     background-color: red;
+    text-transform: capitalize;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Righteous', cursive;
+    text-align: center;
+    font-size: 1.5rem;
+    color: #7fff00;
+    padding: 0.5rem;
 }
 
 
 .backgroundColorCyan {
     background-color: cyan;
+    font-family: 'Ubuntu', sans-serif;
+    text-align: center;
+    font-size: 1.5rem;
+    color: #8a2be2;
+    padding: 0.5rem;
 }
 
 
 .backgroundColorOrange {
     background-color: orange;
+}
+
+
+.backgroundColor1 {
+    background-color: orange;
+    margin-top: 4rem;
 }
