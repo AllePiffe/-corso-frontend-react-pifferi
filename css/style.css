@@ -16,7 +16,6 @@ html {
     padding: 0.5rem;
 }
 
-
 .backgroundColorCyan {
     background-color: cyan;
     font-family: 'Ubuntu', sans-serif;
@@ -26,11 +25,9 @@ html {
     padding: 0.5rem;
 }
 
-
 .backgroundColorOrange {
     background-color: orange;
 }
-
 
 .backgroundColor1 {
     background-color: orange;
