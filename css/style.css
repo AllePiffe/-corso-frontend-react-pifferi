@@ -5,16 +5,24 @@ html {
     font-family: 'Ubuntu', sans-serif;
 }
 
-.backgroundColorRed {
-    background-color: red;
+.persona_component {
+    background-color: rgb(41, 42, 83);
     text-transform: capitalize;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-family: 'Righteous', cursive;
     text-align: center;
     font-size: 1.5rem;
-    color: #7fff00;
-    padding: 0.5rem;
+    color: #8a2be2;
+
 }
+
+.prifile_component>img {
+    border: 2 solid #e22b2b;
+    border-radius: 2rem;
+    margin: 2rem;
+}
+
+#image_form {}
 
 .backgroundColorCyan {
     background-color: cyan;
